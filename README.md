@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmet Karadeniz</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
+### Hi there 👋
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devahmetkaradeniz/devahmetkaradeniz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devahmetkaradeniz/devahmetkaradeniz/output/github-contribution-grid-snake.svg">
