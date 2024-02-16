@@ -22,9 +22,7 @@
 - 📫 How to reach me **ahmetkaradeniz.ce@gmail.com**
 
 - 📄 Know about my experiences [ahmetkaradeniz.dev/projects](ahmetkaradeniz.dev/projects)
-
-- ⚡ Fun fact **I think I am funny**
-
+  
 ---
 
 <h3 align="left">Connect with me:</h3>
